@@ -55,4 +55,4 @@ git pull origin <your-branch-name>
 
 ## Support and Feedback
 
-If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. Your feedback and contributions are invaluable in making Ecstasia'24 a success. Let's create an extraordinary digital experience together!
+If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. Your feedback and contributions are invaluable in making TripTracks a success. Let's create an extraordinary digital experience together!
