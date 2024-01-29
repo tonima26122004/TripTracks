@@ -1,0 +1,104 @@
+.Recommended-title{
+    margin-top: 160px;
+    margin-left: 600px;
+    color: #402E32;
+    font-size: 32px;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    line-height: 32px;
+    word-wrap: break-word;
+}
+.Recommended-subtitle{
+    margin-top: 160px;
+    margin-left: 648px;
+    margin-top: 8px;
+    margin-bottom: 40px;
+    color: #402E32;
+    opacity: 0.50;
+    font-size: 20px;
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word;
+}
+.Recommended-subtitle-link{
+    color: #FB8500;
+    font-size: 20px;
+    font-family: 'Playfair Display';
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 20px;
+    word-wrap: break-word;
+}
+.All-Cards{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.card{
+    width: 296px;
+    height: 444px;
+    position: relative; 
+    background: #FFF7F1; 
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.Card_name{
+    margin-top: 24px;
+    margin-left: 24px;
+    color: #402E32;
+    font-size: 24px;
+    font-family: 'Playfair Display';
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+.Card_about{
+    margin-top: 8px;
+    margin-left: 24px;
+    opacity: 0.50;
+    color: #402E32;
+    font-size: 16px;
+    font-family: 'Playfair Display';
+    text-decoration: none;
+    font-weight: 500;
+    line-height: 16px;
+    word-wrap: break-word;
+}
+.Card_charge{
+    margin-top: 24px;
+    margin-left: 24px;
+    color: #402E32;
+    font-size: 24px;
+    font-family: 'Playfair Display';
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+.Card_review{
+    color: #B1886A;
+    font-size: 16px;
+    margin-left: 200px;
+    margin-top: -20px;
+    text-align: center;
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    line-height: 16px;
+    word-wrap: break-word;
+}
+.Explore{
+    background-color: #FB8500;
+    border: 0;
+    border-radius: 12px;
+    width: 248px;
+    height: 40px;
+    margin-top: 18px;
+    margin-left: 24px;
+    color: #F6EFE6;
+    font-size: 20px;
+}
