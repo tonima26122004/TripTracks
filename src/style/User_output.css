@@ -1,0 +1,28 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    position: center;
+    width: 400px;
+    height: 24px;
+}
+.User_text{
+    left: 520px;
+    top: 32px; 
+    position: relative;
+    text-align: center;
+    font-size: 24px; 
+    font-weight: 500px; 
+    text-transform: capitalize; 
+    line-height: 24px; 
+    word-wrap: break-word;
+}
+.dis,
+.plan,
+.review{
+    color: #402E32; 
+    text-decoration: none;
+}
+.plan,
+.review{
+    opacity: 0.30; 
+}
